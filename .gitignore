@@ -1,0 +1,15 @@
+# Arquivos que nao vao para o GitHub
+CREDITOS.txt
+assets/CREDITOS.txt
+paleta/
+snapshot-completo/
+behance/
+behance-v2/
+behance-final/
+mockups/
+_v2/
+*.tmp
+~$*
+Thumbs.db
+desktop.ini
+.DS_Store
